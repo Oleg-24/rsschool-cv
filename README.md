@@ -1,2 +1,2 @@
 # rsschool-cv
-* [cv](https://Oleg-24.github.io/rsschool-cv/cv)
+* [html-css](https://Oleg-24.github.io/rsschool-cv/)
